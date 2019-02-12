@@ -1,0 +1,10 @@
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.Form.resources
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\steff\OneDrive\Desktop\TicTacToe-master\TicTacToe\obj\Debug\TicTacToe.pdb
